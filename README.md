@@ -166,3 +166,45 @@ Fungsi menu() berfungsi sebagai pengendali utama program, yang menghubungkan sem
 ![Gambar5](https://github.com/Raihanardiansyah/Praktikum_6/blob/main/ss/hasil.png?raw=true)
 
 nah berikut adalah hasil dari program tersebut yang akan memunculkan beberapa menu yang dapat kalian pilih 
+
+![Gambar6](https://github.com/Raihanardiansyah/Praktikum_6/tree/main/ss?raw=true)
+
+Flowchart tersebut menjelaskan alur proses pengolahan data mahasiswa dengan beberapa fitur utama yang disediakan dalam menu pilihan. Berikut adalah penjelasan singkatnya:
+
+### 1. Tampilkan Menu Pilihan:
+
+Pengguna diberikan beberapa opsi:
+
+-Tambah data mahasiswa
+
+-Tampilkan data mahasiswa
+
+-Ubah data mahasiswa
+
+-Hapus data mahasiswa
+
+-Keluar dari program
+
+### 2. Input Pilihan:
+
+Pengguna diminta untuk memilih salah satu opsi dari menu.
+
+-Jika pilihan valid, proses berlanjut sesuai dengan opsi yang dipilih.
+
+-Jika tidak, proses berakhir.
+
+### 3. Proses Berdasarkan Pilihan:
+
+-Tambah Data Mahasiswa: Pengguna dapat memasukkan nama dan nilai mahasiswa untuk menambahkannya ke data.
+
+-Tampilkan Data Mahasiswa: Menampilkan data mahasiswa yang telah ditambahkan.
+
+-Ubah Data Mahasiswa: Mengedit data mahasiswa yang sudah ada.
+
+-Hapus Data Mahasiswa: Menghapus data mahasiswa yang dipilih.
+
+### 4. Akhir Proses:
+
+-Jika pengguna memilih keluar atau tidak memberikan input yang valid, proses akan berakhir.
+
+Flowchart ini menggambarkan sistem pengolahan data mahasiswa yang interaktif dan modular.
